@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">JWT Login</string>
+
+    <string name="text_username">Username</string>
+    <string name="text_password">Password</string>
+    <string name="button_text_login">Login</string>
+
+    <string name="text_missing_username">Missing username</string>
+    <string name="text_missing_password">Missing password</string>
+
+    <string name="text_invalid_username_or_password">Invalid username or password</string>
+    <string name="text_connection_error">Connection broken. Verify that you are connected to the internet.</string>
+    <string name="text_unexpected_error">Unexpected error</string>
+    <string name="text_token_is_expired">Token is expired</string>
+
+    <string name="text_role">Role</string>
+    <string name="text_role_editor">Editor</string>
+    <string name="text_role_writer">Writer</string>
+    <string name="text_role_director">Director</string>
+    <string name="text_role_actor">Actor</string>
+    <string name="text_role_unknown">Unknown</string>
+</resources>
