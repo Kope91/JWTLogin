@@ -25,6 +25,8 @@ the server  not implemnted yet
 **Test run with mock flavor**
 - check login credentials
 - check jwt params
+- check save/load/delete preference parameters
+- check save/load/delete user data
 - check login button enable/disable
 - check invalid credentials on login form
 - check unexpected error on login form
